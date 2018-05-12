@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34537
 description: Drawings that personify animals, accompanied by captions or poems, portray
   brief stories, depict humorous situations, or convey morals.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30328#A-Book-of-Cheerful-Cats-and-Other-Animated-Animals
 gutenberg_issued: '2009-10-25'
 gutenberg_type: Text
 identifiers:
